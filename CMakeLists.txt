@@ -4,4 +4,4 @@ project(wegananm)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(hydro src/main.cpp)
+add_executable(weg src/main.cpp)
