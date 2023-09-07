@@ -6,4 +6,6 @@
 
  Do I know anything about C++ or Assembly? No. Should I learn it? Yes. Did I? No.
 
- 
+# *TRICKS*
+
+You can use `delete.sh` to delete the `out`, `out.o` and `out.asm` files. (I make some stupid things I know 💖)
