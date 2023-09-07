@@ -4,4 +4,4 @@ project(wegananm)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(weg src/main.cpp)
+add_executable(wegananm src/main.cpp)
